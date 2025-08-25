@@ -1,2 +1,3 @@
 # MLOps-Practical-1
-Frist practical of the course.
+My first practical of the course.
+Author: Stephan Aertssen

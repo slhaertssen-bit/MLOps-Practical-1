@@ -5,3 +5,7 @@ Author: Stephan Aertssen
 Updated locally
 
 ## Edited on the Github web
+
+## Fun Fact
+Hello world!
+
